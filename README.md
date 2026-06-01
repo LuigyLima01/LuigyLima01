@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[Clique para aceder ao LinkedIn](https://www.linkedin.com/in/luigy-lima-081378413/)
+
 `Java` `Python` `JavaScript` `HTML` `CSS` `Git` `GitHub` `SQL`
