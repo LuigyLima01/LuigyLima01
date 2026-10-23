@@ -16,12 +16,15 @@
 
 ## About Me
 
-I am a software development student at ISEP building a strong profile in backend and full-stack development through academic and personal projects. I enjoy designing reliable APIs, building modern web applications, and learning the engineering practices behind scalable systems.
+I'm a Software Engineering graduate from ISEP with a strong interest in backend development, full-stack engineering, and software architecture. I enjoy building practical applications, designing reliable APIs, and understanding the engineering principles behind maintainable and scalable systems.
 
-- Focused on backend development, API design, and modern web applications
-- Hands-on with React, Next.js, Node.js, Express, MySQL, PostgreSQL, and Kong
-- Interested in microservices, API gateways, and clean software architecture
-- Open to collaboration on projects that create real impact and help me improve
+- **Backend & Full-Stack Development:** Building APIs and modern web applications
+- **Technologies:** TypeScript, Node.js, Express, React, Next.js, PostgreSQL, MySQL, and Kong
+- **Software Engineering:** Interested in clean architecture, microservices, event-driven systems, and test-driven development (TDD)
+- **Continuous Learning:** Exploring new technologies, improving problem-solving skills, and strengthening my engineering fundamentals
+- **Collaboration:** Open to contributing to projects, exchanging ideas, and building solutions that solve real-world problems
+
+I'm always looking for opportunities to grow as a software engineer, work on challenging projects, and turn ideas into reliable software.
 
 ## Focus Areas
 
